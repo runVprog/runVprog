@@ -15,5 +15,7 @@
 - ⚡ Fun fact: ...
 -->
 😄 **Pronouns**: He/Him
+
 ⚡ **Fun fact**: I play and teach the violin. I love running for exercise.
+
 🌱 I’m currently learning [GitHub Boost your Knowledge](https://microverse.notion.site/Git-GitHub-Boost-your-knowledge-ca7e2d017f2e49c6816d1784e70a68e9)
