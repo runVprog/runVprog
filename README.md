@@ -5,6 +5,11 @@ Results-driven Data Analyst with a strong foundation in SQL, Microsoft Excel, Po
 ## Skills
 Advanced Excel | Google Sheets | PostgresSQL | Power BI |  Python
 
+## Examples of Work
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="https://www.youtube.com/watch?v=8BQ64exQFSA" 
+alt="Project 1" width="240" height="180" border="10" /></a>
+
 - 🔭 I’m currently working on this page. 
 - 💬 Ask me about Data insights 
 - ⚡ Fun fact: I play and teach the violin 
