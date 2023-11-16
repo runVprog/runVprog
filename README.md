@@ -1,10 +1,9 @@
-### Hi there 👋, my name is Rhodny Gem Perdon
-#### I am a Data Analyst
 ![I am a Data Analyst](https://github.com/runVprog/runVprog/blob/main/1.png)
+# Rhodny Gem Perdon
 
 Results-driven Data Analyst with a strong foundation in SQL, Microsoft Excel, Power BI, and Python. Leveraging a comprehensive skillset acquired through formal training at Refocus Digital Academy 2023
-
-Skills: Advanced Excel | Google Sheets | PostgresSQL | Power BI |  Python
+## Skills
+Advanced Excel | Google Sheets | PostgresSQL | Power BI |  Python
 
 - 🔭 I’m currently working on this page. 
 - 💬 Ask me about Data insights 
