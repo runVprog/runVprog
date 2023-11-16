@@ -4,6 +4,10 @@
 Results-driven Data Analyst with a strong foundation in SQL, Microsoft Excel, Power BI, and Python. Leveraging a comprehensive skillset acquired through formal training at Refocus Digital Academy 2023
 ## Skills
 Advanced Excel | Google Sheets | PostgresSQL | Power BI |  Python
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+                    </p>
+                    
 
 ## Examples of Work
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8BQ64exQFSA
