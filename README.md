@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rhodny Gem Perdon
 #### I am a Data Analyst
-![I am a Data Analyst](https://pbs.twimg.com/profile_banners/767596791395004417/1700150895/600x200)
+![I am a Data Analyst](https://github.com/runVprog/runVprog/blob/main/1.png)
 
 Results-driven Data Analyst with a strong foundation in SQL, Microsoft Excel, Power BI, and Python. Leveraging a comprehensive skillset acquired through formal training at Refocus Digital Academy 2023
 
